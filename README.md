@@ -3,7 +3,7 @@
 Download client libraries (ensure you are using the most recent PIP update!):
 ```python
 pip3 install pytrends
-pip3 install --upgrade google-api-python-client
+pip3 install google-api-python-client
 pip3 install plotly 
 ```
 You will need to create a Plotly account, you can do this at https://plot.ly/python/getting-started/
